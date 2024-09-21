@@ -325,7 +325,7 @@ a.active {
 ==================================================*/
 /* General Section Styling */
 #about-me {
-    background-color: #f9f9f9;
+    background-color:white;
     padding: 60px 0;
   }
   
@@ -404,6 +404,7 @@ a.active {
 
 #projects {
     padding: 100px 0;
+    background-color: white;
 }
 
 .portfolio .categories-grid span {
@@ -478,7 +479,7 @@ a.active {
 
 .portfolio_item .portfolio_item_hover .item_info span {
     display: block;
-    color: #fff;
+    color:black;
     font-size: 18px;
     -webkit-transform: translateY(-100px);
     transform: translateY(-100px);
@@ -492,7 +493,7 @@ a.active {
     display: inline-block;
     background-color: #425BB5;
     padding: 5px 20px;
-    color: #fff;
+    color: white;
     margin-top: 10px;
     -webkit-transform: translateY(100px);
     transform: translateY(100px);
@@ -553,7 +554,7 @@ a.active {
 }
 
 .popup-modal {
-    background: #fff;
+    background: white;
 }
 
 .close-popup-modal {
